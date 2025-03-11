@@ -1,4 +1,4 @@
-# 📝 AI Task Manager Bot  
+# 📝 Task Reminder Bot  
 
 A **simple AI-powered task manager bot** that helps you manage and prioritize tasks based on deadlines. It uses **Python, JSON storage, and APScheduler** to remind users about upcoming tasks.  
 
